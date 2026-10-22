@@ -1,8 +1,8 @@
 {
   "name": "sevexis",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": true,
-  "description": "Sevexis ($SVXS) | Intelligence without limits. Uncensored, open-weight LLMs for research, reasoning and code.",
+  "description": "Sevexis ($SVXS) | Intelligence without limits on Robinhood Chain. Uncensored, open-weight LLMs for research, reasoning and code.",
   "scripts": {
     "build": "node build.js",
     "start": "npx serve ."
