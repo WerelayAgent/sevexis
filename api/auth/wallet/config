@@ -1,0 +1,1 @@
+{"chainId": 101, "statement": "Sign in to Sevexis or prove token holdings.", "resourcePrefix": "urn:sevexis:wallet:", "maxMessageAgeSeconds": 300, "plans": {"enabled": false, "tiers": []}}

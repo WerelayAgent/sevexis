@@ -21,7 +21,10 @@ const items = [
   'index.html',
   'terms',
   'brand',
-  'svx'
+  'svx',
+  'v1',
+  'auth',
+  'api'
 ];
 
 for (const item of items) {
